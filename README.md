@@ -1,4 +1,4 @@
-# Disaster-Detection-and-Disaster-Prediction-Using-Satellite-Imagery-
+# Disaster-Detection-and-Disaster-Prediction-Using-Satellite-Imagery
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
