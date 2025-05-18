@@ -50,4 +50,4 @@ The objective of this project is to detect and predict disaster-affected areas i
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jaycee-404/Hybrid-Sentiment-Analysis-using-RoBERTA-and-VADAR/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jaycee-404/Disaster-Detection-and-Disaster-Prediction-Using-Satellite-Imagery-/tree/main?tab=MIT-1-ov-file) file for details.
