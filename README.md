@@ -1,0 +1,1 @@
+# Disaster-Detection-and-Disaster-Prediction-Using-Satellite-Imagery-
