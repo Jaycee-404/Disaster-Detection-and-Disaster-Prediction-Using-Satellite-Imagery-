@@ -20,10 +20,20 @@ The objective of this project is to detect and predict disaster-affected areas i
 - A reconstruction loss is computed between the input image and the model output.
 - If the loss exceeds a predefined threshold, the image is considered anomalous and potentially indicates a disaster.
 
+  ![image](https://github.com/user-attachments/assets/4204baa4-f0c2-47cd-8819-1871be46b838)
+
+  ![image](https://github.com/user-attachments/assets/634e4a6c-a2ed-459e-aaf6-481bd8a5acd2)
+
 ### Disaster Prediction (Supervised)
 - A labeled dataset is created by pairing pre-disaster images with labels extracted from corresponding post-disaster annotations.
 - A convolutional neural network based on ResNet50 is used for binary classification.
 - The model is trained to predict whether a pre-disaster image corresponds to a post-disaster scene with damage.
+
+
+
+  ![image](https://github.com/user-attachments/assets/03d98852-ec4d-4af4-8bc0-5f42852f2b63)
+
+
 
 ### Pipeline Summary
 1. Parse JSON label files to extract building damage information.
