@@ -3,7 +3,8 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Objective
-The objective of this project is to detect and predict disaster-affected areas in satellite or aerial images using deep learning. The system integrates anomaly detection through reconstruction loss and binary classification via a ResNet50-based model to identify damage patterns in pre- and post-disaster scenarios.
+The objective of this project is to build a real-world deep learning system that automatically detects and predicts disaster-affected areas from satellite or aerial images by combining anomaly detection using reconstruction loss with a ResNet50-based binary classification model, enabling efficient damage assessment and supporting emergency response and recovery operations through advanced image analysis techniques.
+.
 
 ## Dataset Information
 - **Source**: xView2 Challenge Dataset (provided by DIUx and Maxar)
