@@ -52,6 +52,7 @@ The objective of this project is to detect and predict disaster-affected areas i
 - **Disaster Classification**:
   - Implemented a ResNet50-based binary classification model.
   - Achieved approximately **66% accuracy** in predicting disaster occurrence from pre-disaster satellite imagery.
+  - Accuracy can be further improved by integrating additional data sources such as ground-based sensors, weather data, and geospatial metadata to enhance contextual understanding.
 
 - **Integrated Pipeline**:
   - Combined both unsupervised anomaly detection and supervised classification into a unified end-to-end disaster monitoring solution.
